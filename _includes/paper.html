@@ -1,0 +1,17 @@
+{% for talk in site.data.papers %}
+{% if talk.id == include.key %}
+
+<div class="talk" style="border:0px !important; margin: 0px">
+
+    <span>{{include.time}}</span>
+    <div class="ttitle">{{talk.title}}</div>
+    <!-- <span>{{talk.type }}: </span> -->
+    <div><span class="tspeaker">{{talk.authors}}</span></div>
+    <!--div><span class="tspeaker"><a href="{{talk.link}}">Download Preprint</a></span></div-->
+
+    <!-- <br> -->
+    <div class="tabstract"><b>Abstract:</b> {{talk.abstract}}</div>
+
+</div>
+{% endif %}
+{% endfor %}

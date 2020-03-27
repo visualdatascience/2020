@@ -1,0 +1,18 @@
+# Site settings
+title: "Visualization in Data Science (VDS at IEEE VIS 2019)"
+email: "vds@ieeevis.org"
+description: "Visualization in Data Science (VDS at IEEE VIS 2019)"
+baseurl: "/2019"
+url: "http://www.visualdatascience.org/"
+conferenceshort: "VDS 2019"
+conferencedate: "Sunday, October 20th, 2019"
+
+deadline_submission: "Tue, July 16, 2019"
+deadline_notification: "Fri, August 23, 2019"
+
+# Build settings
+markdown: kramdown
+
+collections:
+- talks
+

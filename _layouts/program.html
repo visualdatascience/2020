@@ -1,0 +1,50 @@
+---
+layout: page
+---
+
+<!-- <p>Comming soon!</p> -->
+
+<span class="time">Sunday, October 20, 2019</span>
+<p>Location: Ballroom A</p>
+
+<div class="talk">
+     <span class="time">9:00-9:10</span><div class="ttitle">Intro</div>
+</div>
+
+
+{% include invited_talk.html time="9:10-10:10" key="gelman" %}
+
+<div class="talk">
+     <span class="time">10:10-10:30</span><div class="ttitle">Poster Preview</div> <p>(Posters will be on display in the coffee breaks)</p>
+</div>
+
+
+{% include invited_talk.html time="10:50-11:50" key="been" %}
+
+
+<div class="talk">
+     <span class="time">11:50-12:20</span><div class="ttitle">Paper Session: Application I</div>
+     {% include paper.html time="" key="1" %}
+     {% include paper.html time="" key="2" %}
+</div>
+
+<div class="talk">
+     <span class="time">2:20-2:50</span><div class="ttitle">Paper Sesssion: Application II</div>
+     {% include paper.html time="" key="3" %}
+     {% include paper.html time="" key="4" %}
+</div>
+
+<div class="talk">
+     <span class="time">2:50-3:35</span><div class="ttitle">Paper Session: Encoding</div>
+     {% include paper.html time="" key="5" %}
+     {% include paper.html time="" key="6" %}
+     {% include paper.html time="" key="7" %}
+</div>
+
+<div class="talk">
+     <span class="time">4:10-4:40</span><div class="ttitle">Paper Session: Perception</div>
+     {% include paper.html time="" key="8" %}
+     {% include paper.html time="" key="9" %}
+</div>
+
+{% include invited_talk.html time="4:40-5:40" key="bryan" %}
