@@ -6,13 +6,13 @@ permalink: /committee/
 
 ### General Chairs
 
-**[Shixia Liu](http://shixialiu.com/)**
-    
-Shixia Liu is an associate professor at Tsinghua University. Her research interests include visual text analytics, visual model analytics, visual behavior analytics, and text mining. Shixia is an associate editor of IEEE Transactions on Visualization and Computer Graphics and was the papers co-chair of IEEE VAST 2016 and 2017.
-
 **[Adam Perer](http://perer.org/)**  
  
 Adam Perer is an Assistant Research Professor at Carnegie Mellon University, where he is a member of the Human-Computer Interaction Institute. His research integrates data visualization and machine learning techniques to create visual interactive systems to help users make sense out of big data. Lately, his research focuses on human-centered data science and extracting insights from clinical data to support data-driven medicine. This work has been published at premier venues in visualization, human-computer interaction, and medical informatics. He was previously a Research Scientist at IBM Research. He holds a Ph.D. in Computer Science from the University of Maryland, College Park.
+
+**[Hendrik Strobelt](http://hendrik.strobelt.com/)** 
+
+Hendrik Strobelt is a Researcher in Information Visualisation, Visual Analytics, and Machine Learning at IBM Research AI in Cambridge, MA. He is interested in Visualization of large data sets of unstructured/semi-structured data, biological data, and neural network models.
 
 ### Paper Chairs
 
@@ -20,12 +20,9 @@ Adam Perer is an Assistant Research Professor at Carnegie Mellon University, whe
 
 Liang is a Principal Research Scientist at Visa Research. His research interests lie in the fields of visual analytics, deep learning and human-computer interaction. Prior to joining Visa Research, Liang was a Research Staff Member at IBM Almaden Research Center.
 
-**[Hendrik Strobelt](http://hendrik.strobelt.com/)** 
+**[Alvitta Ottley](http://visualdata.wustl.edu)**
 
-Hendrik Strobelt is a Researcher in Information Visualisation, Visual Analytics, and Machine Learning at IBM Research AI in Cambridge, MA. He is interested in Visualization of large data sets of unstructured/semi-structured data, biological data, and neural network models.
-
-
-### Publicity Chair
+Alvitta is ... 
 
 
 ### Web Chair
@@ -37,10 +34,9 @@ Panpan Xu is a Lead Research Scientist at [Bosch Research](http://www.bosch.com/
 
 ### Steering Committee
 
-**[Daniel Keim](https://www.vis.uni-konstanz.de/mitglieder/keim/)** 
+**[Shixia Liu](http://shixialiu.com)** 
 
-Daniel Keim is a full professor and head of the Information Visualization and Data Analysis Research Group at the University of Konstanz, Germany. He has been actively involved in information visualization and data analysis research for about 20 years and developed a number of novel visual analysis techniques for very large data sets with applications to a wide range of application areas including financial analysis, network analysis, geo-spatial analysis, as well as text and multimedia analysis. 
-
+Shixia Liu is an associate professor at Tsinghua University. Her research interests include visual text analytics, visual model analytics, visual behavior analytics, and text mining. Shixia is an associate editor of IEEE Transactions on Visualization and Computer Graphics and was the papers co-chair of IEEE VAST 2016 and 2017.
 
 **[Torsten Möller](https://cs.univie.ac.at/Torsten.Möller)**  
  
@@ -56,8 +52,9 @@ Alex is an assistant professor of computer science at the Scientific Computing a
 
 ### Program Committee 
 
+TBA 
 
-Alim, Usman (University of Calgary) 
+<!-- Alim, Usman (University of Calgary) 
 Banovic, Nikola (University of Michigan, Ann Arbor)
 Berger, Matthew (Vanderbilt University)
 Brown, Eli (Depaul University)
@@ -78,7 +75,7 @@ Wang, Bei (University of Utah)
 Wang, Junpeng (Visa Research)
 Wang, Yang (Uber)
 Wu, Yanhong (Visa Research)
-Xu, Panpan (Bosch Research)
+Xu, Panpan (Bosch Research) -->
 
 
 <!-- - Andrienko, Natalia (Fraunhofer IAIS & City University London) 
