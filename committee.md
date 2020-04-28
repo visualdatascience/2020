@@ -18,11 +18,11 @@ Hendrik Strobelt is a Researcher in Information Visualisation, Visual Analytics,
 
 **[Liang Gou](https://usa.visa.com/about-visa/visa-research/liang-gou.html)**  
 
-Liang is a Principal Research Scientist at Visa Research. His research interests lie in the fields of visual analytics, deep learning and human-computer interaction. Prior to joining Visa Research, Liang was a Research Staff Member at IBM Almaden Research Center.
+Liang Gou is a Principal Research Scientist at Bosch Research. His research interests lie in the fields of visual analytics, deep learning and human-computer interaction. Prior to joining Bosch Research, Liang was a Principal Research Scientist at Visa Research and a Research Staff Member at IBM Almaden Research Center.
 
 **[Alvitta Ottley](http://visualdata.wustl.edu)**
 
-Alvitta is ... 
+Alvitta Ottley is an Assistant Professor in the Department of Computer Science & Engineering at Washington University in St. Louis. She also holds a courtesy appointment in the Department of Psychological and Brain Sciences. Her research uses interdisciplinary approaches to solve problems such as how best to display information for effective decision-making and how we can design human-in-the-loop visual analytics interfaces that are more attuned to the way people think.
 
 
 ### Web Chair
