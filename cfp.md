@@ -29,6 +29,8 @@ To submit a paper please use the [Precision Conference System](https://new.preci
 
 
 Fri, July 17, 2020, 5:00 pm PDT: Paper and Abstract Submission
+
 Fri, August 28, 2020: Author Notification
+
 Fri, Sept. 4, 2020: Camera-ready Copy for Accepted Submissions
 
