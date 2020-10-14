@@ -2,9 +2,8 @@
 {% if talk.key == include.key %}
 
 <div class="talk">
-    TBD
 
-<!--     <div class="tportrait"><img src="{{ site.baseurl }}/images/speakers/{{talk.picture}}" alt="{{talk.speaker}}">
+    <div class="tportrait"><img src="{{ site.baseurl }}/images/speakers/{{talk.picture}}" alt="{{talk.speaker}}">
 
         <div>{{talk.picture-note}}</div>
     </div>
@@ -20,8 +19,6 @@
 
     <div><a href="{{ talk.website }}">{{ talk.website }}</a></div>
 
-
-
     <div class="tbioabstract">
 
         <div class="tabstract"><b>Abstract:</b> {{talk.abstract}}</div>
@@ -29,6 +26,6 @@
 
         <div class="tbio"><b>Bio:</b> {{talk.bio}}</div>
     </div>
- --></div>
+</div>
 {% endif %}
 {% endfor %}
