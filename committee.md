@@ -52,30 +52,25 @@ Alex is an assistant professor of computer science at the Scientific Computing a
 
 ### Program Committee 
 
-TBA 
 
-<!-- Alim, Usman (University of Calgary) 
-Banovic, Nikola (University of Michigan, Ann Arbor)
-Berger, Matthew (Vanderbilt University)
-Brown, Eli (Depaul University)
-Cashman, Dylan (Tufts University)
-Dou, Wenwen (UNC Charlotte)
-Du, Fan (Adobe Research)
-Endert, Alex (Georgia Tech)
-Hohman, Fred (Georgia Tech)
-Kahng, Minsuk (Oregon State University)
-Krüger, Robert (Harvard University)
-Liu, Zhicheng (Adobe Research)
+Alim, Usman (University of Calgary) 
 Nobre, Carolina (University of Utah)
-Parra, Denis (PUC Chile)
-Schreck, Tobias (TU Graz)
-Steed, Chad (Oak Ridge National Laboratory)
-Stein, Manuel (University of Konstanz)
-Wang, Bei (University of Utah)
 Wang, Junpeng (Visa Research)
+Parra, Denis (PUC Chile)
+Wang, Yun (Microsoft Research Asia)
+Schreck, Tobias (TU Graz)
+Stein, Manuel (University of Konstanz)
+Du, Fan (Adobe Research)
+Dunne, Cody (Northeastern University)
+Cashman, Dylan (Tufts University)
+Hohman, Fred (Georgia Tech)
 Wang, Yang (Uber)
-Wu, Yanhong (Visa Research)
-Xu, Panpan (Bosch Research) -->
+Berger, Matthew (Vanderbilt University)
+He, Wenbin (Bosch Research)
+Metoyer, Ronald (University of Notre Dame)
+Xu, Panpan (Bosch Research)
+Liu, Shusen (LLNL)
+Wu, Yanhong (Facebook)
 
 
 <!-- - Andrienko, Natalia (Fraunhofer IAIS & City University London) 
