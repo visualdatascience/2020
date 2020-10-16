@@ -9,6 +9,7 @@ conferencedate: "[TBD]"
 
 deadline_submission: "<s>Fri, July 17, 2020</s><br> Fri, July 24, 2020"
 deadline_notification: "<s>Fri, August 28, 2020</s><br> Fri, Sept. 4, 2020"
+event_date: "Mon, Oct. 26, 2020"
 
 # Build settings
 markdown: kramdown

@@ -16,7 +16,7 @@ Hendrik Strobelt is a Researcher in Information Visualisation, Visual Analytics,
 
 ### Paper Chairs
 
-**[Liang Gou](https://usa.visa.com/about-visa/visa-research/liang-gou.html)**  
+**[Liang Gou](https://scholar.google.com/citations?user=x3VK0fAAAAAJ&hl=en)**  
 
 Liang Gou is a Principal Research Scientist at Bosch Research. His research interests lie in the fields of visual analytics, deep learning and human-computer interaction. Prior to joining Bosch Research, Liang was a Principal Research Scientist at Visa Research and a Research Staff Member at IBM Almaden Research Center.
 

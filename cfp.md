@@ -39,4 +39,4 @@ Fri, Sept 4, 2020: Author Notification
 
 Fri, Sept. 18, 2020: Camera-ready Copy for Accepted Submissions
 
-
+Mon, Oct. 26, 2020: VDS Workshop
