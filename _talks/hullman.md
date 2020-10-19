@@ -1,11 +1,11 @@
 ---
 key: hullman
 speaker: Jessica Hullman
-website: 
+website: http://users.eecs.northwestern.edu/~jhullman/
 affiliation: Northwestern University
 title: Why Interactive Analysis Needs Theories of Inference
 time: TBD
-picture: 
+picture: jessica_hullman_med
 picture-note: Jessica Hullman
 slides: 
 bio: |
