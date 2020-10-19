@@ -3,9 +3,7 @@ layout: home
 title: VDS 2020
 ---
 
-## COVID-19 impact on VDS 2020 (Updated April 20, 2020)
-
-IEEE VDS 2020 is still scheduled to be held as planned in the Fall of 2020. However, we acknowledge that the situation is very dynamic, and we will continue to monitor events and update things accordingly.  Please follow [IEEE VIS's COVID-19 Updates](http://ieeevis.org/year/2020/info/coronavirus-info) for more details.
+IEEE VDS 2020 will be happening virtually on Monday, October 26, 2020.  Check out the [exciting lineup of keynotes and speakers](http://www.visualdatascience.org/2020/program/).  In order to attend, please [register \(for free\)](http://ieeevis.org/year/2020/info/registration/conference-registration) for IEEE VIS and get access to all events.
 
 ## Overview
 
