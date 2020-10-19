@@ -5,7 +5,7 @@ website: https://finale.seas.harvard.edu/
 affiliation: Harvard University
 title: Interpretability and Human Validation of Machine Learning
 time: 
-picture: 091819_finale_1393
+picture: 091819_finale_1393.jpg
 picture-note: Finale Doshi-Velez
 slides: 
 bio: |
