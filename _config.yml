@@ -17,3 +17,5 @@ markdown: kramdown
 collections:
 - talks
 
+
+theme: jekyll-theme-minimal
